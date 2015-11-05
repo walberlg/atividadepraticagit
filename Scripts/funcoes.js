@@ -1,1 +1,1 @@
-function (String){}
+function (String variavel){}
